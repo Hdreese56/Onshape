@@ -25,3 +25,12 @@ This assignment is what puts onshape ahead of solid works for me, the shear simp
 ![GitHub intro1](int3.png)
 ### Link
 https://cvilleschools.onshape.com/documents/9a0205fd9ed5cedb940cac7c/w/e02cea1eb62e689da2d3357c/e/ca050824687afb496fff1a96
+
+
+## Part 4 - Tire
+### Reflection
+I think these assignments are getting easier.
+### Picture
+![GitHub intro1](int4.png)
+### Link
+https://cvilleschools.onshape.com/documents/8dffab100e304b752475bc43/w/6d393c70cee17c5f760f9534/e/d52bad90fe6f2254405c48dc
