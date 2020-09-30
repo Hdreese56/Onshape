@@ -34,3 +34,45 @@ I think these assignments are getting easier.
 ![GitHub intro1](int4.png)
 ### Link
 https://cvilleschools.onshape.com/documents/8dffab100e304b752475bc43/w/6d393c70cee17c5f760f9534/e/d52bad90fe6f2254405c48dc
+
+
+## Part 5 - Wheel
+### Reflection
+The fillets on this software are out of this world and I am so shocked this is a web browser application.
+### Picture
+
+### Link
+
+
+## Part 6 - Axle
+### Reflection
+Super easy part that used cuts and mirrors.
+### Picture
+
+### Link
+
+
+## Part 7 - Collar
+### Reflection
+Introduces us to a new feature, the ability to create a part with already existing geometery.
+### Picture
+
+### Link
+
+
+## Part 8 - Bearing 1
+### Reflection
+Really simple part, similar to Collar it demonstrates how we can make a part with the geometry of another part.
+### Picture
+
+### Link
+
+
+## Part 9 - Bearing 2
+### Reflection
+Almost the exact same as bearing one but marks the end of creating the parts.
+### Picture
+
+### Link
+
+
