@@ -40,39 +40,39 @@ https://cvilleschools.onshape.com/documents/8dffab100e304b752475bc43/w/6d393c70c
 ### Reflection
 The fillets on this software are out of this world and I am so shocked this is a web browser application.
 ### Picture
-
+![GitHub intro1](int5.png)
 ### Link
-
+https://cvilleschools.onshape.com/documents/da224f53a88a21d1ea7128bd/w/b3f3d013a1e6d8a978390448/e/9eaf20e980fb1cde3a8cc7cf
 
 ## Part 6 - Axle
 ### Reflection
 Super easy part that used cuts and mirrors.
 ### Picture
-
+![GitHub intro1](int6.png)
 ### Link
-
+https://cvilleschools.onshape.com/documents/4220943636b49a3641977d5a/w/88d5f8ffaa51577ccdbc6e39/e/9e7913b3bb53f35d043c508d
 
 ## Part 7 - Collar
 ### Reflection
 Introduces us to a new feature, the ability to create a part with already existing geometery.
 ### Picture
-
+![GitHub intro1](int7.png)
 ### Link
-
+https://cvilleschools.onshape.com/documents/4220943636b49a3641977d5a/w/88d5f8ffaa51577ccdbc6e39/e/9e7913b3bb53f35d043c508d
 
 ## Part 8 - Bearing 1
 ### Reflection
 Really simple part, similar to Collar it demonstrates how we can make a part with the geometry of another part.
 ### Picture
-
+![GitHub intro1](int8.png)
 ### Link
-
+https://cvilleschools.onshape.com/documents/da224f53a88a21d1ea7128bd/w/b3f3d013a1e6d8a978390448/e/9eaf20e980fb1cde3a8cc7cf
 
 ## Part 9 - Bearing 2
 ### Reflection
 Almost the exact same as bearing one but marks the end of creating the parts.
 ### Picture
-
+![GitHub intro1](int9.png)
 ### Link
-
+https://cvilleschools.onshape.com/documents/a218818f206caaa69ed9da27/w/a6d18c61ab4e32d29cf07181/e/33a8c835b829002644e12cf1
 
