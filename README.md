@@ -76,3 +76,20 @@ Almost the exact same as bearing one but marks the end of creating the parts.
 ### Link
 https://cvilleschools.onshape.com/documents/a218818f206caaa69ed9da27/w/a6d18c61ab4e32d29cf07181/e/33a8c835b829002644e12cf1
 
+## Sub assembly
+### Reflection
+The shear simplicity of onshape and how the logic of the program works is crazy
+### Picture
+![GitHub intro1](int10.png)
+### Link
+https://cvilleschools.onshape.com/documents/4ce51bb1eb9078c7012a4264/w/3129113209a09e530d913c37/e/56bcfb0bd66e9f51be24f038
+
+
+## Final assembly
+### Reflection
+Probably the fastest I have ever finished an intro but it was a great intro and i really like the program.
+### Picture
+![GitHub intro1](int11.png)
+### Link
+https://cvilleschools.onshape.com/documents/3ba79cd33e2ba07991c921ee/w/0120e4a60ea5576c48125031/e/981627ea0fb785bf6a936bf8
+
