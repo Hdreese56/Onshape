@@ -78,7 +78,7 @@ https://cvilleschools.onshape.com/documents/a218818f206caaa69ed9da27/w/a6d18c61a
 
 ## Sub assembly
 ### Reflection
-The shear simplicity of onshape and how the logic of the program works is crazy
+The shear simplicity of onshape and how the logic of the program works is crazy.
 ### Picture
 ![GitHub intro1](int10.png)
 ### Link
@@ -87,7 +87,7 @@ https://cvilleschools.onshape.com/documents/4ce51bb1eb9078c7012a4264/w/312911320
 
 ## Final assembly
 ### Reflection
-Probably the fastest I have ever finished an intro but it was a great intro and i really like the program.
+Probably the fastest I have ever finished a set of assignments but it was a great intro and I really like the program.
 ### Picture
 ![GitHub intro1](int11.png)
 ### Link
