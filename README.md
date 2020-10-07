@@ -99,6 +99,6 @@ https://cvilleschools.onshape.com/documents/3ba79cd33e2ba07991c921ee/w/0120e4a60
 ### Reflection
 This was a struggle. I Breezed throught the first two parts and hit a major roadblock on the last part and the assembly. The mates for the assembly was super hard. But know I know how to use cylindrical mates.
 ### Picture
-![GitHub intro1](int12.png)
+![GitHub intro1](int12.PNG)
 ### Link
 https://cvilleschools.onshape.com/documents/861a4a4979888b604e3633ab/w/f3e5daafccb4b42a8be9496f/e/afb105c28cbc447d7b839ddd
