@@ -102,3 +102,13 @@ This was a struggle. I Breezed throught the first two parts and hit a major road
 ![GitHub intro1](int12.PNG)
 ### Link
 https://cvilleschools.onshape.com/documents/861a4a4979888b604e3633ab/w/f3e5daafccb4b42a8be9496f/e/afb105c28cbc447d7b839ddd
+
+## Dorthys dowels and pins
+
+### Reflection
+This was a long assignment but a fitting intro to such an important aspect of cad.
+### Picture
+![GitHub intro1](int13.PNG)
+### Link
+https://cvilleschools.onshape.com/documents/90ffed2ed9175299cb309a9e/w/24d20b91eb3fcbf4089b2de2/e/2a721387574c890b3ea453f8
+
